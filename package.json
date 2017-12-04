@@ -1,6 +1,6 @@
 {
   "name": "btc-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "simple server app that interacts with GDAX API and can calculate estimated portfolio value of BTC based on amount of btc passed as HTTP param",
   "main": "app.js",
   "scripts": {
