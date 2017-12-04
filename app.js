@@ -90,7 +90,7 @@ app.get('/utils/getValue/:btc', function ( req, res) {
                 status: 'success',
                 data: data,
                 averageEstimate: avgEst,
-                latestEstimate: latestEst
+                latestEstimate: latestEst,
             });
         } else {
             res.status(418).json({
